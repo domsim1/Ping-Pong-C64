@@ -1,5 +1,5 @@
 # Ping Pong C64
-Ping pong game made in 6502 assembly for the Commodore 64. \
+A Ping Pong game made in 6502 assembly for the Commodore 64. \
 I made this to learn assembly and have fun.
 ## Resources
 Built with CBM prg Studio: https://www.ajordison.co.uk/index.html \
